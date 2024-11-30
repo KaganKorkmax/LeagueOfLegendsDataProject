@@ -3,7 +3,7 @@
 
 **Project & Dataset**
 
-In this project, I aim to analyze my personal data from the game League of Legends. The project involves accessing and examining the following data associated with my account:
+In this project, I aim to analyze my personal data from the game League of Legends. The project involves accessing and examining the following data and more associated with my account:
 
 * Match history
 * Champion statistics
@@ -38,11 +38,13 @@ Analyzing my performance and the time I spend while playing League of Legends pr
   
 -Visualizing the trends in win rate changes over time.
 
+-Analyzing my winning rates with my preferred characters
+
 -Evaluating gameplay duration and frequency.
 
 * Interpretation of Results:
   
--Identifying the strengths and weaknesses of my performance.
+-Identifying the strengths and weaknesses of my performance development.
 
 -Assessing the impact of my gaming habits on my overall daily life.
 
