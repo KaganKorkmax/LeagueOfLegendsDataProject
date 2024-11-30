@@ -27,6 +27,7 @@ Analyzing my performance and the time I spend while playing League of Legends pr
 * Data Collection:
   
 -Fetching data associated with my account by connecting to the Riot Games API.
+
 -Alternatively, gathering data from third-party websites that provide similar information.
 
 * Data Processing and Cleaning:
@@ -36,10 +37,12 @@ Analyzing my performance and the time I spend while playing League of Legends pr
 * Analysis and Visualization:
   
 -Visualizing the trends in win rate changes over time.
+
 -Evaluating gameplay duration and frequency.
 
 * Interpretation of Results:
   
 -Identifying the strengths and weaknesses of my performance.
+
 -Assessing the impact of my gaming habits on my overall daily life.
 
