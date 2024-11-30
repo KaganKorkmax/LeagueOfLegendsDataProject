@@ -2,6 +2,7 @@
 
 
 **Project & Dataset**
+
 In this project, I aim to analyze my personal data from the game League of Legends. The project involves accessing and examining the following data associated with my account:
 
 * Match history
@@ -11,7 +12,8 @@ In this project, I aim to analyze my personal data from the game League of Legen
 * Game playtime and frequency
 
 
-**Project Idea**   \n 
+**Project Idea**   
+
 Analyzing my performance and the time I spend while playing League of Legends presents an important opportunity to better understand my gaming habits. With this project, I aim to:
 
 * Review my progress over time,
@@ -20,7 +22,8 @@ Analyzing my performance and the time I spend while playing League of Legends pr
 
 
 
-**Plan and Methodology**    \n 
+**Plan and Methodology**  
+
 * Data Collection:
 -Fetching data associated with my account by connecting to the Riot Games API.
 -Alternatively, gathering data from third-party websites that provide similar information.
