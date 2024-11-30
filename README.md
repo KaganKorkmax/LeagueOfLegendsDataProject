@@ -36,7 +36,7 @@ Analyzing my performance and the time I spend while playing League of Legends pr
 
 * Analysis and Visualization:
   
--Visualizing the trends in win rate changes over time.
+-Analyze trends in win rate changes over time.
 
 -Analyzing my winning rates with my preferred characters
 
