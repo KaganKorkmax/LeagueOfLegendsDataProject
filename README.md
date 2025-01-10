@@ -1,50 +1,5 @@
-# LeagueOfLegendsDataProject
 
+*Motivation*
 
-**Project & Dataset**
-
-In this project, I aim to analyze my personal data from the game League of Legends. The project involves accessing and examining the following data and more associated with my account:
-
-* Match history
-* Champion statistics
-* Overall game averages
-* General win rate
-* Game playtime and frequency
-
-
-**Project Idea**   
-
-Analyzing my performance and the time I spend while playing League of Legends presents an important opportunity to better understand my gaming habits. With this project, I aim to:
-
-* Review my progress over time,
-* Analyze the trends in my play frequency and win rates,
-* Evaluate my gameplay duration and its impact on my daily life.
-
-
-
-**Plan and Methodology**  
-
-* Data Collection:
-  
--Fetching data associated with my account by connecting to the Riot Games API.
-
--Alternatively, gathering data from third-party websites that provide similar information.
-
-* Data Processing and Cleaning:
-  
--Organizing the collected data and converting it into an analyzable format.
-
-* Analysis and Visualization:
-  
--Analyze trends in win rate changes over time.
-
--Analyzing my winning rates with my preferred characters
-
--Evaluating gameplay duration and frequency.
-
-* Interpretation of Results:
-  
--Identifying the strengths and weaknesses of my performance development.
-
--Assessing the impact of my gaming habits on my overall daily life.
+For my project, I aimed to analyze my interaction with competitive gaming and performance improvement over time. Since League of Legends (LoL) is my primary game of focus, I decided to base the analysis on my match and champion data. The motivation for this project is to gain deeper insights into my gameplay patterns, including the champions I play most frequently, my match performances, and my rank progression across different seasons. By analyzing this data, I aim to identify trends in my gameplay and areas for improvement.
 
