@@ -1,0 +1,37 @@
+Rank,Champion,Wins,Losses,Win Rate,KDA
+1. Rank=N/A, Champ=N/A, Wins=0G, Losses=0Y, Ratio=N/A, KDA=N/A
+2. Rank=1, Champ=Garen, Wins=31G, Losses=34Y, Ratio=48%, KDA=2:1
+3. Rank=N/A, Champ=N/A, Wins=0G, Losses=0Y, Ratio=N/A, KDA=N/A
+4. Rank=2, Champ=Yorick, Wins=26G, Losses=19Y, Ratio=58%, KDA=2.04:1
+5. Rank=3, Champ=Tahm Kench, Wins=19G, Losses=13Y, Ratio=59%, KDA=2.04:1
+6. Rank=4, Champ=Trundle, Wins=14G, Losses=10Y, Ratio=58%, KDA=1.72:1
+7. Rank=5, Champ=Sylas, Wins=6G, Losses=6Y, Ratio=50%, KDA=2.56:1
+8. Rank=6, Champ=Mordekaiser, Wins=6G, Losses=5Y, Ratio=55%, KDA=2.61:1
+9. Rank=7, Champ=Warwick, Wins=7G, Losses=2Y, Ratio=78%, KDA=2.58:1
+10. Rank=8, Champ=Yasuo, Wins=5G, Losses=4Y, Ratio=56%, KDA=1.43:1
+11. Rank=9, Champ=Nasus, Wins=4G, Losses=5Y, Ratio=44%, KDA=1.77:1
+12. Rank=10, Champ=Malphite, Wins=5G, Losses=2Y, Ratio=71%, KDA=2.2:1
+13. Rank=11, Champ=Sett, Wins=3G, Losses=3Y, Ratio=50%, KDA=1.12:1
+14. Rank=12, Champ=Darius, Wins=2G, Losses=2Y, Ratio=50%, KDA=1.39:1
+15. Rank=13, Champ=Lux, Wins=2G, Losses=2Y, Ratio=50%, KDA=2.52:1
+16. Rank=14, Champ=Veigar, Wins=2G, Losses=2Y, Ratio=50%, KDA=1.85:1
+17. Rank=15, Champ=Cassiopeia, Wins=2G, Losses=2Y, Ratio=50%, KDA=0.59:1
+18. Rank=16, Champ=Lissandra, Wins=1G, Losses=3Y, Ratio=25%, KDA=0.89:1
+19. Rank=17, Champ=Volibear, Wins=0G, Losses=4Y, Ratio=0%, KDA=1.27:1
+20. Rank=18, Champ=Gwen, Wins=0G, Losses=4Y, Ratio=0%, KDA=0.69:1
+21. Rank=19, Champ=Jax, Wins=1G, Losses=1Y, Ratio=50%, KDA=1:1
+22. Rank=20, Champ=Master Yi, Wins=1G, Losses=1Y, Ratio=50%, KDA=2.44:1
+23. Rank=21, Champ=Illaoi, Wins=0G, Losses=2Y, Ratio=0%, KDA=1.14:1
+24. Rank=22, Champ=Rumble, Wins=0G, Losses=2Y, Ratio=0%, KDA=2.05:1
+25. Rank=23, Champ=Amumu, Wins=0G, Losses=2Y, Ratio=0%, KDA=2:1
+26. Rank=24, Champ=Renekton, Wins=1G, Losses=0Y, Ratio=100%, KDA=2.63:1
+27. Rank=25, Champ=Miss Fortune, Wins=1G, Losses=0Y, Ratio=100%, KDA=1.5:1
+28. Rank=26, Champ=Tryndamere, Wins=1G, Losses=0Y, Ratio=100%, KDA=2.6:1
+29. Rank=27, Champ=Wukong, Wins=1G, Losses=0Y, Ratio=100%, KDA=1.8:1
+30. Rank=28, Champ=Brand, Wins=1G, Losses=0Y, Ratio=100%, KDA=3.5:1
+31. Rank=29, Champ=Vladimir, Wins=0G, Losses=1Y, Ratio=0%, KDA=1:1
+32. Rank=30, Champ=Lee Sin, Wins=0G, Losses=1Y, Ratio=0%, KDA=12:1
+33. Rank=31, Champ=Xin Zhao, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.6:1
+34. Rank=32, Champ=Nunu ve Willump, Wins=0G, Losses=1Y, Ratio=0%, KDA=3.29:1
+35. Rank=33, Champ=Ekko, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.86:1
+36. Rank=34, Champ=Fizz, Wins=0G, Losses=1Y, Ratio=0%, KDA=1.6:1

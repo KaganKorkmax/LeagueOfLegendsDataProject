@@ -1,0 +1,8 @@
+Rank,Champion,Wins,Losses,Win Rate,KDA
+1. Rank=1, Champ=Lux, Wins=1G, Losses=0Y, Ratio=100%, KDA=1.7:1
+2. Rank=2, Champ=Warwick, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.69:1
+3. Rank=3, Champ=Quinn, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.25:1
+4. Rank=4, Champ=Annie, Wins=0G, Losses=1Y, Ratio=0%, KDA=1.15:1
+5. Rank=5, Champ=Lissandra, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.75:1
+6. Rank=6, Champ=Rakan, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.92:1
+7. Rank=7, Champ=Diana, Wins=0G, Losses=1Y, Ratio=0%, KDA=1:1

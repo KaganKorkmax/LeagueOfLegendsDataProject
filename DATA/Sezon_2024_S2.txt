@@ -1,0 +1,25 @@
+Rank,Champion,Wins,Losses,Win Rate,KDA
+1. Rank=1, Champ=Ahri, Wins=8G, Losses=5Y, Ratio=62%, KDA=2.12:1
+2. Rank=2, Champ=Yasuo, Wins=9G, Losses=3Y, Ratio=75%, KDA=1.59:1
+3. Rank=3, Champ=Lissandra, Wins=7G, Losses=4Y, Ratio=64%, KDA=1.93:1
+4. Rank=4, Champ=Lux, Wins=4G, Losses=5Y, Ratio=44%, KDA=2.42:1
+5. Rank=5, Champ=Malphite, Wins=4G, Losses=3Y, Ratio=57%, KDA=2.38:1
+6. Rank=6, Champ=Veigar, Wins=3G, Losses=3Y, Ratio=50%, KDA=2.09:1
+7. Rank=7, Champ=Rumble, Wins=3G, Losses=3Y, Ratio=50%, KDA=1.28:1
+8. Rank=8, Champ=LeBlanc, Wins=2G, Losses=4Y, Ratio=33%, KDA=2.03:1
+9. Rank=9, Champ=Brand, Wins=2G, Losses=3Y, Ratio=40%, KDA=1.88:1
+10. Rank=10, Champ=Zed, Wins=2G, Losses=2Y, Ratio=50%, KDA=1.84:1
+11. Rank=11, Champ=Fizz, Wins=0G, Losses=4Y, Ratio=0%, KDA=1.89:1
+12. Rank=12, Champ=Mordekaiser, Wins=2G, Losses=1Y, Ratio=67%, KDA=1.46:1
+13. Rank=13, Champ=Wukong, Wins=2G, Losses=1Y, Ratio=67%, KDA=2.05:1
+14. Rank=14, Champ=Darius, Wins=1G, Losses=2Y, Ratio=33%, KDA=0.82:1
+15. Rank=15, Champ=Warwick, Wins=0G, Losses=3Y, Ratio=0%, KDA=1.38:1
+16. Rank=16, Champ=Kayn, Wins=1G, Losses=1Y, Ratio=50%, KDA=3.33:1
+17. Rank=17, Champ=Yone, Wins=0G, Losses=2Y, Ratio=0%, KDA=0.46:1
+18. Rank=18, Champ=Garen, Wins=0G, Losses=2Y, Ratio=0%, KDA=1.55:1
+19. Rank=19, Champ=Camille, Wins=0G, Losses=2Y, Ratio=0%, KDA=0.52:1
+20. Rank=20, Champ=Annie, Wins=1G, Losses=0Y, Ratio=100%, KDA=1.43:1
+21. Rank=21, Champ=Rakan, Wins=1G, Losses=0Y, Ratio=100%, KDA=1.63:1
+22. Rank=22, Champ=Lee Sin, Wins=0G, Losses=1Y, Ratio=0%, KDA=1.63:1
+23. Rank=23, Champ=Ekko, Wins=0G, Losses=1Y, Ratio=0%, KDA=1.67:1
+24. Rank=24, Champ=Quinn, Wins=0G, Losses=1Y, Ratio=0%, KDA=0.36:1
