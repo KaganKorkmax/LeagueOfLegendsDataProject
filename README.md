@@ -76,5 +76,3 @@ This project provided valuable insights into my gaming behavior and performance 
 * Peak performance periods.
 * Seasonal rank progression.
 
-The visualizations helped me better understand the areas where I can focus on improvement. The automated data collection and processing pipeline can be reused for future analyses to track progress over time.
-
