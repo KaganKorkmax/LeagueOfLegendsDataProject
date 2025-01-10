@@ -21,7 +21,7 @@ I used the following tools and libraries to collect, process, and analyze my dat
 * Matplotlib and Seaborn : For data visualization, including bar plots, line graphs, and scatter plots.
 
 
-</h1>Data Source</h1>
+<h1>Data Source</h1>
 
 The data for this project comes from a single primary source:
 
@@ -29,15 +29,15 @@ The data for this project comes from a single primary source:
 * Match Data : Match dates, K/D/A ratios, ranks, and performance metrics like CS (creep score).
 
 
-</h1>Data Processing</h1>
+<h1>Data Processing</h1>
 
 
-</h2>Match Data</h2>
+<h2>Match Data</h2>
 
 * Rank Mapping: Converted ranks such as "Silver 2" or "Gold 4" into numerical values for analysis.
 * Filtering Invalid Matches: Dropped rows with missing or "N/A" values to focus only on valid matches.
 
-</h2>Champion Data</h2>
+<h2>Champion Data</h2>
 
 * Champion Aggregation: Combined data from multiple seasons for the same champion to calculate total games played and averaged win rates.
 * Filtering: Dropped champions with zero win rates or games played.
@@ -46,7 +46,7 @@ You can access my dataset and code related to it from : https://github.com/Kagan
 
 
 
-</h1>Data Visualizations</h1>
+<h1>Data Visualizations</h1>
 
 * Seasonal Rank Progression : A bar chart showing the average rank achieved in each season.
 * Total Playtime by Season : A bar chart illustrating the total hours spent playing across seasons, assuming an average game duration of 40 minutes.
@@ -57,7 +57,7 @@ A scatter plot comparing win rates against KDA values for all champions played a
 You can access my vizulization codes and related jpegs from : https://github.com/KaganKorkmax/LeagueOfLegendsDataProject/tree/main/Visualization
 
 
-</h1>Data Analysis</h1>
+<h1>Data Analysis</h1>
 
 * Rank Progression : Analyzed the player's rank progression over time and across seasons.
 * Champion Performance : Identified the most effective champions based on win rate and KDA.
@@ -65,7 +65,7 @@ Assessed the consistency of performance across different seasons for the same ch
 * Playtime Insights : Measured the total time spent playing in each season and identified patterns in activity levels.
 * Statistical Comparisons : Conducted hypothesis tests to check for significant differences in win rates or performance metrics across seasons or champions.
 
-</h1>Conclusion</h1>
+<h1>Conclusion</h1>
 
 This project provided valuable insights into my gaming behavior and performance trends. By analyzing my match history and champion statistics, I identified patterns such as:
 
