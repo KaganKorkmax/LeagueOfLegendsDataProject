@@ -3,78 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slayt Gösterisi</title>
+    <title>Proje Sunumu</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
             margin: 0;
             padding: 0;
-        }
-        .slider {
-            position: relative;
-            max-width: 800px;
-            margin: 50px auto;
-            overflow: hidden;
-        }
-        .slides {
-            display: flex;
-            transition: transform 0.5s ease-in-out;
-        }
-        .slide {
-            min-width: 100%;
-        }
-        .slide img {
-            width: 100%;
-            display: block;
+            scroll-behavior: smooth; /* Yumuşak kaydırma */
         }
         nav {
-            background: #333;
-            color: white;
-            padding: 10px 0;
             position: fixed;
             top: 0;
             width: 100%;
+            background: #333;
+            padding: 10px 0;
             z-index: 1000;
+            display: flex;
+            justify-content: center;
         }
-        nav a {
+        nav button {
+            margin: 0 10px;
+            padding: 10px 20px;
+            border: none;
+            background: #444;
             color: white;
-            margin: 0 15px;
-            text-decoration: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        nav button:hover {
+            background: #555;
+        }
+        section {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            background: #f4f4f4;
+        }
+        #match-data, #champion-data, #information {
+            background: #ddd;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        .info {
+            margin-top: 20px;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
     <!-- Navigasyon -->
     <nav>
-        <a href="#slide1">Slayt 1</a>
-        <a href="#slide2">Slayt 2</a>
-        <a href="#slide3">Slayt 3</a>
+        <button onclick="navigateTo('hero')">Introduction</button>
+        <button onclick="navigateTo('match-data')">Match Datas</button>
+        <button onclick="navigateTo('champion-data')">Champion Datas</button>
+        <button onclick="navigateTo('information')">Information</button>
     </nav>
 
-    <!-- Slayt Gösterisi -->
-    <div class="slider">
-        <div class="slides">
-            <div class="slide" id="slide1">
-                <img src="images/slide1.png" alt="Slayt 1">
-            </div>
-            <div class="slide" id="slide2">
-                <img src="images/slide2.png" alt="Slayt 2">
-            </div>
-            
+    <!-- Hero Bölümü -->
+    <section id="hero" class="hero">
+        <h1>Welcome to the Project Presentation</h1>
+        <img src="images/intro1.jpg" alt="Introduction Image 1">
+        <img src="images/intro2.jpg" alt="Introduction Image 2">
+    </section>
+
+    <!-- Match Datas -->
+    <section id="match-data">
+        <h2>Match Datas</h2>
+        <img src="images/match1.jpg" alt="Match Image 1">
+        <img src="images/match2.jpg" alt="Match Image 2">
+        <img src="images/match3.jpg" alt="Match Image 3">
+        <img src="images/match4.jpg" alt="Match Image 4">
+    </section>
+
+    <!-- Champion Datas -->
+    <section id="champion-data">
+        <h2>Champion Datas</h2>
+        <img src="images/champion1.jpg" alt="Champion Image 1">
+        <img src="images/champion2.jpg" alt="Champion Image 2">
+        <img src="images/champion3.jpg" alt="Champion Image 3">
+        <img src="images/champion4.jpg" alt="Champion Image 4">
+    </section>
+
+    <!-- Information -->
+    <section id="information">
+        <h2>Information</h2>
+        <img src="images/info1.jpg" alt="Information Image 1">
+        <img src="images/info2.jpg" alt="Information Image 2">
+        <div class="info">
+            <p>This section contains additional information about the project, with accompanying images and details.</p>
         </div>
-    </div>
+    </section>
 
     <script>
-        // Slayt Geçişi
-        const slides = document.querySelector('.slides');
-        const slideCount = document.querySelectorAll('.slide').length;
-        let index = 0;
-
-        setInterval(() => {
-            index = (index + 1) % slideCount;
-            slides.style.transform = `translateX(-${index * 100}%)`;
-        }, 3000); // Her 3 saniyede geçiş
+        // Kaydırma için fonksiyon
+        function navigateTo(sectionId) {
+            document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+        }
     </script>
 </body>
 </html>
