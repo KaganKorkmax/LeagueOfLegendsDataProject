@@ -11,7 +11,7 @@ The champions I play most frequently.
 
 *You can access my website from : https://kagankorkmax.github.io/LeagueOfLegendsDataProject/
 
-*You can access my slider from : 
+*You can access my presentation from : https://github.com/KaganKorkmax/LeagueOfLegendsDataProject/blob/main/slides_mydata.pptx
 
 <h1>Tools</h1>
 
