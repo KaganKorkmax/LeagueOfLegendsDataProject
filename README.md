@@ -33,6 +33,7 @@ The data for this project comes from a single primary source:
 
 <h1>Data Processing</h1>
 
+You can access my dataset and code related to it from : https://github.com/KaganKorkmax/LeagueOfLegendsDataProject/tree/main/DATA
 
 <h2>Match Data</h2>
 
@@ -44,7 +45,7 @@ The data for this project comes from a single primary source:
 * Champion Aggregation: Combined data from multiple seasons for the same champion to calculate total games played and averaged win rates.
 * Filtering: Dropped champions with zero win rates or games played.
 
-You can access my dataset and code related to it from : https://github.com/KaganKorkmax/LeagueOfLegendsDataProject/tree/main/DATA
+
 
 
 
